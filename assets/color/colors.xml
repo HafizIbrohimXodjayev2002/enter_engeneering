@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#0509AA</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#2D2D2D</color>
+    <color name="black90">#2D2D2D</color>
+    <color name="gray">#333334</color>
+    <color name="gray1">#ECECEC</color>
+    <color name="gray2">#E2E2E2</color>
+    <color name="gray3">#C4C4C4</color>
+    <color name="gray4">#6F6F6F</color>
+    <color name="gray5">#474747</color>
+    <color name="green">#27C62D</color>
+    <color name="red">#FF4F4F</color>
+    <color name="blue">#4662C6</color>
+    <color name="gray_add">#929292</color>
+    <color name="dark_blue">#1F3E79</color>
+    <color name="background_dark">#333333</color>
+    <color name="background_light">#FFFFFF</color>
+    <color name="card_color_dark">#3D3D3D</color>
+    <color name="card_color_light">#F3F3F3</color>
+    <color name="text_color_dark">#F6F6F6</color>
+    <color name="text_color_light">#2D2D2D</color>
+    <color name="subtitle_color_dark">#6F6F6F</color>
+    <color name="line_color_dark">#5A5A5A</color>
+    <color name="line2_color_dark">#333333</color>
+    <color name="line_color_light">#EAEAEA</color>
+    <color name="line2_color_light">#E4E4E4</color>
+    <color name="default_button_color">#474747</color>
+    <color name="pressed_button_color">#1734DA</color>
+    <color name="gray_dark">#29292A</color>
+    <color name="light_gray">#F3F3F3</color>
+    <color name="gray2">#E2E2E2</color>
+    <color
+        name="yellow_ocher"
+        type="material material-accent">#FFD600
+    </color>
+
+
+</resources>
